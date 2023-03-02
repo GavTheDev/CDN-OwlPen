@@ -11,5 +11,5 @@
 
 - [Uptime Kuma](https://uptime.owlpentest.com/)
 - [OpenVPN](https://vpn.owlpentest.com/)
-- [GavMC](https://mc.owlpentest.com/)
+- [CDN](https://cdn.owlpentest.com/)
 - [Private MC Server](https://java.owlpentest.com/)
