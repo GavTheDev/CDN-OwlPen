@@ -224,7 +224,7 @@ input, select, textarea {
 .chatiframe {
 	width: 80vw;
 	height: 60vh;
-	border-radius: 2%;
+	border-radius: 1.5%;
 	overflow:hidden;
   position:relative;
 }
